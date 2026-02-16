@@ -6,7 +6,7 @@ A comprehensive design and working prototype for a clinically-oriented, ethicall
 
 ---
 
-## 📋 Overview
+##  Overview
 
 **AFRO-GENOMICS** is a reference platform demonstration designed for presentation to:
 - Medical genetics laboratories
@@ -14,22 +14,22 @@ A comprehensive design and working prototype for a clinically-oriented, ethicall
 - Funding bodies and ethics review boards
 - African health ministries
 
-**⚠️ IMPORTANT: This is a design mockup and working prototype, NOT a production-ready system.** All data is simulated. No actual genomic processing occurs. See [DESIGN.md](DESIGN.md) for comprehensive architecture documentation.
+** IMPORTANT: This is a design mockup and working prototype, NOT a production-ready system.** All data is simulated. No actual genomic processing occurs. See [DESIGN.md](DESIGN.md) for comprehensive architecture documentation.
 
 ### Key Features
 
-✅ **Scientific Rigor**
+ **Scientific Rigor**
 - Population genetics based on reference datasets (1000 Genomes)
 - Confidence intervals for ancestry estimates
 - Health-relevant genetic markers with disclaimers
 
-✅ **Ethical Framework**
+ **Ethical Framework**
 - Informed consent management (IRB-linked)
 - Data sovereignty (no third-party resale)
 - Complete audit trail of all data access
 - Right to withdrawal with data deletion
 
-✅ **Professional UI**
+ **Professional UI**
 - Clinical/academic aesthetic (not consumer-oriented)
 - Comprehensive data visualization
 - Research-focused language and disclaimers
@@ -37,7 +37,7 @@ A comprehensive design and working prototype for a clinically-oriented, ethicall
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Technology Stack
 
@@ -155,7 +155,7 @@ The system includes mock data with pre-configured demo accounts:
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Base URL
 ```
@@ -198,7 +198,7 @@ Full OpenAPI documentation available at `/api/v1/docs`
 
 ---
 
-## 🔐 Security Model
+##  Security Model
 
 ### Authentication
 - **JWT tokens** (RS256 signing, 1-hour expiration)
@@ -226,11 +226,11 @@ This design incorporates privacy principles from:
 - APTA (African Personal Data Protection Act)
 - UNESCO Scientific Integrity Recommendations
 
-⚠️ **Disclaimer:** This is a design mockup. Full regulatory compliance requires institutional IRB approval, legal review, and regulatory certification.
+ **Disclaimer:** This is a design mockup. Full regulatory compliance requires institutional IRB approval, legal review, and regulatory certification.
 
 ---
 
-## 📊 Mock Data
+##  Mock Data
 
 The system initializes with realistic mock data:
 
@@ -263,7 +263,7 @@ The system initializes with realistic mock data:
 
 ---
 
-## 🖥️ Frontend Pages
+##  Frontend Pages
 
 ### Public Pages
 - **/** - Home page with mission statement and key principles
@@ -284,7 +284,7 @@ The system initializes with realistic mock data:
 
 ---
 
-## 📈 Results Visualization
+##  Results Visualization
 
 ### Ancestry Visualization
 - **Bar chart:** Population percentages
@@ -300,7 +300,7 @@ The system initializes with realistic mock data:
 
 ---
 
-## 🧪 Testing the Platform
+##  Testing the Platform
 
 ### Sample Workflow
 
@@ -325,7 +325,7 @@ The system initializes with realistic mock data:
 
 ---
 
-## 🔮 Next Steps for Production
+##  Next Steps for Production
 
 ### Phase 1: Legal & Regulatory
 - [ ] Institutional Review Board (IRB) approval
@@ -360,7 +360,7 @@ The system initializes with realistic mock data:
 
 ---
 
-## 📖 Design Documentation
+##  Design Documentation
 
 Comprehensive design documentation is available in [DESIGN.md](DESIGN.md), including:
 
@@ -386,7 +386,7 @@ This is a design reference and prototype. For institutional implementations:
 
 ---
 
-## ⚠️ Disclaimers
+##  Disclaimers
 
 ### This is NOT Production-Ready
 
@@ -410,7 +410,7 @@ Results and information provided by this platform are for research and education
 
 ---
 
-## 📞 Contact
+##  Contact
 
 **Project:** AFRO-GENOMICS Research Platform  
 **Email:** research@afro-genomics.example.com  
@@ -418,7 +418,7 @@ Results and information provided by this platform are for research and education
 
 ---
 
-## 📄 License
+##  License
 
 [Specify license - e.g., Creative Commons for design documentation]
 
